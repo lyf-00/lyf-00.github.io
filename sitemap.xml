@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lyf-00.github.io/cn/welcome/</loc>
+    <loc>http://github.com/cn/welcome/</loc>
     
     <lastmod>2022-09-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://lyf-00.github.io/404.html</loc>
+    <loc>http://github.com/404.html</loc>
     
     <lastmod>2022-09-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://lyf-00.github.io/About/index.html</loc>
+    <loc>http://github.com/About/index.html</loc>
     
     <lastmod>2016-04-20</lastmod>
     
@@ -24,7 +24,7 @@
   
 
   <url>
-    <loc>http://lyf-00.github.io/</loc>
+    <loc>http://github.com/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
